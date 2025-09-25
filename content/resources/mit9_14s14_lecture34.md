@@ -5,6 +5,8 @@ description: This file contains the information regarding fetal brain tissue tra
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/48787461f8b85090293225447eaf94b9_MIT9_14S14_Lecture34.pdf
 file_size: 2571423
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

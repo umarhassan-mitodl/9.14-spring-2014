@@ -5,6 +5,8 @@ draft: false
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/mit9_14s14_lec07_transcript.pdf
 file_size: 72385
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

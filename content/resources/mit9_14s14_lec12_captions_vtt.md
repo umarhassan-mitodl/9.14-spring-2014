@@ -5,6 +5,8 @@ draft: false
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/mit9_14s14_lec12_captions.vtt
 file_size: 78927
 file_type: text/vtt
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
