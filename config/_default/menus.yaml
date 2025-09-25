@@ -1,0 +1,38 @@
+leftnav:
+- identifier: ce1669ea-fea3-c6d6-8bb2-fdd189031514
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 50854470-7c40-ff72-c925-a9488520afab
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: b70fd933-c826-d046-3486-e5588b6773ad
+  name: Readings and Study Questions
+  pageRef: /pages/readings/
+  weight: 30
+- identifier: 59deabb3-48c8-63f8-6b93-2c061577db41
+  name: Recommended Readings
+  pageRef: /pages/readings/recommended-readings
+  parent: b70fd933-c826-d046-3486-e5588b6773ad
+  weight: 40
+- identifier: 19224a13-4dc2-853c-831d-7eaf353e57f2
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 50
+- identifier: e3b93086-9809-2c82-7b1d-6f13968bffb4
+  name: Audio Lectures
+  pageRef: /video_galleries/audio-lectures
+  weight: 60
+- identifier: c687985d-1788-7eef-f005-257845718494
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 70
+- identifier: 9f90e4b0-68b1-ed44-887a-d62b12352a1b
+  name: Exams
+  pageRef: /pages/exams
+  weight: 80
+- identifier: a4984601-d9ce-2974-e40c-3c1ce780ba0e
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 90

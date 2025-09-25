@@ -1,0 +1,60 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Anatomy and Physiology"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neurobiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "legacy_uid": "a8df3c05-02e1-1ec6-474e-d842a810ba36",
+  "instructors": {
+    "content": [
+      "62fb6017-6afd-4c1d-95a2-66f739afd718"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "43a65735-6070-2518-ef1d-c30f7e92512c",
+    "website": "9-14-brain-structure-and-its-origins-spring-2014"
+  },
+  "course_title": "Brain Structure and Its Origins",
+  "course_description": "This course provides an outline of vertebrate functional neuroanatomy, aided by studies of comparative neuroanatomy and evolution, and by studies of brain development. Topics include early steps to a central nervous system, basic patterns of brain and spinal cord connections, regional development and differentiation, regeneration, motor and sensory pathways and structures, systems underlying motivations, innate action patterns, formation of habits, and various cognitive functions. In addition, lab techniques are reviewed and students perform brain dissections.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.14",
+  "course_image_thumbnail": {
+    "content": "01a0255b-bdf9-00e6-5f55-077bd520b280",
+    "website": "9-14-brain-structure-and-its-origins-spring-2014"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Audio",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Instructor Insights"
+  ],
+  "site_uid": "d6acf55f-8dd3-4d9b-8fb9-aa66761174b2",
+  "site_short_id": "9.14-spring-2014",
+  "site_url_path": "courses/9-14-brain-structure-and-its-origins-spring-2014",
+  "title": "Course Metadata"
+}
