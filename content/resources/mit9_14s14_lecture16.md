@@ -5,6 +5,8 @@ description: This file contains the information regarding descending pathways an
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/3cbec8d5f090d7db379f6f302e84c2ec_MIT9_14S14_Lecture16.pdf
 file_size: 1076690
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
