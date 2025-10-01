@@ -5,6 +5,8 @@ description: This file contains the information regarding why a midbrain? evolut
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/385d5c8c4f89ebec13480f2e06acf917_MIT9_14S14_Lecture11.pdf
 file_size: 2428852
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

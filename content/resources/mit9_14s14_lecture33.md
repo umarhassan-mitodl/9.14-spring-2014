@@ -4,6 +4,8 @@ description: This file contains the information regarding corpus striatum.
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/659e39cd13af74f434a538b2628b8f91_MIT9_14S14_Lecture33.pdf
 file_size: 2035850
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

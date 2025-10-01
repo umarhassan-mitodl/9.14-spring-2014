@@ -5,6 +5,8 @@ description: This file contains the information regarding 9.14 lecture 35-37 rea
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/f1e07f788f24641d7fae6a5dc889e0a8_MIT9_14S14_Lec35-37ReadQue.pdf
 file_size: 660285
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

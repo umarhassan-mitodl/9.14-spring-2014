@@ -3,6 +3,8 @@ content_type: page
 description: This section provides citations and links to required and supplementary
   readings for the course, the schedule of topics and reading assignments, and reading
   questions.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

@@ -5,6 +5,8 @@ description: This file contains the information regarding 9.14 lecture 30 readin
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/c9bc52b6e37cdeafbc41a4edb8b90794_MIT9_14S14_Lec30ReadQue.pdf
 file_size: 652299
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

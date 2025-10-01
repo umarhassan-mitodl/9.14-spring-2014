@@ -36,6 +36,7 @@
     "website": "9-14-brain-structure-and-its-origins-spring-2014"
   },
   "course_title": "Brain Structure and Its Origins",
+  "hide_download": true,
   "course_description": "This course provides an outline of vertebrate functional neuroanatomy, aided by studies of comparative neuroanatomy and evolution, and by studies of brain development. Topics include early steps to a central nervous system, basic patterns of brain and spinal cord connections, regional development and differentiation, regeneration, motor and sensory pathways and structures, systems underlying motivations, innate action patterns, formation of habits, and various cognitive functions. In addition, lab techniques are reviewed and students perform brain dissections.\n",
   "department_numbers": [
     "9"
@@ -46,6 +47,7 @@
     "content": "01a0255b-bdf9-00e6-5f55-077bd520b280",
     "website": "9-14-brain-structure-and-its-origins-spring-2014"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Audio",

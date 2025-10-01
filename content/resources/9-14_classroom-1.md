@@ -4,6 +4,8 @@ description: ''
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/ceb326c95017727d87ebec3ed98fcce0_9-14_classroom-1.jpg
 file_size: 52841
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

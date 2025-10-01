@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a sample quiz from early in the course as well
   the midterm exam with solutions.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

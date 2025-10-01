@@ -5,6 +5,8 @@ description: This file contains the information regarding 9.14 homework assignme
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/1cb966b0f337229c7c7c48b25ab9daaa_MIT9_14S14_HW3WorkSheets.pdf
 file_size: 4042315
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
